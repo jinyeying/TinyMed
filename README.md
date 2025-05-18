@@ -1,4 +1,4 @@
-Since the download link for LLaVA-Med might be closed, I recommend downloading the pretrain dataset from the following link on Hugging Face:  
+**Update(2025.05.18):** Since the download link for LLaVA-Med might be closed, I recommend downloading the pretrain dataset from the following link on Hugging Face:  
 [https://huggingface.co/datasets/Shubhangi29/llava_med_alignment_500k_chunk_1](https://huggingface.co/datasets/Shubhangi29/llava_med_alignment_500k_chunk_1)  
 
 Thanks to **Shubhangi29** for the contribution!

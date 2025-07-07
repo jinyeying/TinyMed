@@ -33,7 +33,7 @@ Our paper's link is [Med-MoE: Mixture of Domain-Specific Experts for Lightweight
    pip install flash-attn --no-build-isolation
    ```
 
-3. Replace the default MoE with our provided version.
+3. Replace the default MoE with our provided version. Using "from moe.layer import MoE". (Thanks to xuhe2 for the suggestion.)
 
 4. Please download the domain-specific router provided by us or trained by yourself, and replace its path in the `moellava/model/language_model/llava_stablelm_moe.py` file.
 
